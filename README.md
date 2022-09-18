@@ -1,4 +1,4 @@
-[![Masterhead](https://docs.microsoft.com/en-us/training/achievements/github/introduction-to-github-social.png)]
+![Masterhead](https://docs.microsoft.com/en-us/training/achievements/github/introduction-to-github-social.png)
 <h1 align="center">Hi 👋, I'm Smith Ekemini</h1>
 <h3 align="center">I am interested in Web development..... Software engineering.</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761146f97c620ccfa92d22ecd11df0d6fac2dd28b497&rid=giphy.gif&ct=g"
